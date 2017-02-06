@@ -1,0 +1,24 @@
+Sorted Alphabetically
+Almog, Nat  = 10 votes 
+Celestine, Maui  = 6 votes 
+Glaw, Cahya  = 1 votes 
+Hyun-Joo, Candide  = 8 votes 
+Jaya, Sung-Hyun  = 2 votes 
+Ji, Yarden  = 6 votes 
+Li, Cande  = 5 votes 
+Ngoc, Noor  = 9 votes 
+Tristen, Thoko  = 4 votes 
+Vijaya, Cheng  = 3 votes 
+
+
+Sorted Numerically
+Glaw, Cahya  = 1 votes 
+Jaya, Sung-Hyun  = 2 votes 
+Vijaya, Cheng  = 3 votes 
+Tristen, Thoko  = 4 votes 
+Li, Cande  = 5 votes 
+Celestine, Maui  = 6 votes 
+Ji, Yarden  = 6 votes 
+Hyun-Joo, Candide  = 8 votes 
+Ngoc, Noor  = 9 votes 
+Almog, Nat  = 10 votes 
